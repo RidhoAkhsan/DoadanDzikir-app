@@ -26,42 +26,69 @@
         <item>@drawable/artikel_2</item>
         <item>@drawable/artikel_3</item>
         <item>@drawable/artikel_4</item>
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
-        <item>@drawable/artikel_1</item>
-        <item>@drawable/bg_artikel</item>
+        <item>@drawable/artikel_5</item>
+        <item>@drawable/artikel_6</item>
+        <item>@drawable/artikel_7</item>
+        <item>@drawable/artikel_8</item>
     </string-array>
 
     <string-array name="arr_title_artikel">
-        <item>Sedekah Adalah Bukti Keimanan</item>
+        <item>Sunnah Shalat Malam</item>
         <item>Kebebasan Palestina</item>
         <item>Keutamaan membaca Al-Quran</item>
         <item>Wajah baru Istiqlal</item>
-        <item>Artikel 5 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 6 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 7 Artikel Artikel Artikel Artikel Artikel</item>
-        <item>Artikel 8 Artikel Artikel Artikel Artikel Artikel</item>
+        <item>Buku Jembatan Ilmu</item>
+        <item>Rumahmu, adalah Istanamu</item>
+        <item>Sunnah memakan Kurma</item>
+        <item>Memelihara anak Yatim</item>
     </string-array>
 
     <string-array name="arr_desc_artikel">
-        <item>Salah satu cara kita mengetahui kadar keimanan kita adalah dengan melihat apakah kita suka bersedekah atau tidak. Bersedekah tidak harus banyak dan tidak harus dengan uang, sehingga tidak kaya atau tidak punya uang bukanlah menjadi alasan kita untuk tidak bersedekah. Bersedekah dengan uang Rp 10.000, Rp 20.000, atau Rp 50.000 itu sudah cukup. Atau bersedekah dengan beras yang kita miliki sebanyak satu kilo atau dua kilo, ini pun sudah cukup. Sedekah adalah bukti keimanan. Bukti keimanan kita terhadap hari akhir, bahwasanya kelak di hari kiamat kita akan mendapat balasan pahala dari Allah, meskipun di dunia kita tidak mendapatkan apa-apa. Kita lelah bekerja mencari uang dan harta, lalu uang tersebut kita berikan tanpa kompensasi dan kita hanya berharap balasan di hari kiamat kelak.</item>
-        <item>Perjuangan kemerdekaan Palestina telah berlangsung selama puluhan tahun. Konflik ini telah menyebabkan banyak korban jiwa dan kerugian material. Namun, rakyat Palestina tetap gigih dalam memperjuangkan cita-cita mereka.\n
-
-        Indonesia telah lama mendukung perjuangan kemerdekaan Palestina. Indonesia telah memberikan bantuan kemanusiaan dan diplomatik kepada rakyat Palestina. Indonesia juga telah menjadi salah satu negara yang mendukung pengakuan kemerdekaan Palestina oleh PBB.\n
-
-        Indonesia berharap bahwa kemerdekaan Palestina dapat segera terwujud. Kemerdekaan Palestina merupakan sebuah langkah penting untuk mewujudkan perdamaian dan keadilan di kawasan Timur Tengah.</item>
+        <item>Ketika menyebutkan ciri-ciri orang yang bertakwa, Alloh Subhanallohu wa Taala berfirman yang artinya, Mereka sedikit sekali tidur di waktu malam. Dan selalu memohonkan ampunan di waktu pagi sebelum fajar. (QS. Adz Dzariyat: 17-18)\n\n
+        Karena pentingnya shalat malam ini Alloh berfirman kepada Nabi-Nya yang artinya, Hai orang yang berselimut, bangunlah pada sebagian malam (untuk sholat), separuhnya atau kurangi atau lebihi sedikit dari itu. Dan bacalah Al-Quran dengan tartil. (QS. AlMuzammil: 1-4)\n\n
+        Kemulian orang yang beriman dengan sholat malam\n\n
+        Ketika Jibril datang pada Rosululloh sholallohu alaihi wa sallam lalu berkata, Hai Muhammad, kemuliaan orang beriman adalah dengan sholat malam. Dan kegagahan orang beriman adalah sikap mandiri dari bantuan orang lain. (HR. Al Hakim, dihasankan oleh Al Albani)</item>
+        <item>Perjuangan kemerdekaan Palestina telah berlangsung selama puluhan tahun. Konflik ini telah menyebabkan banyak korban jiwa dan kerugian material. Namun, rakyat Palestina tetap gigih dalam memperjuangkan cita-cita mereka.\n\n
+            Indonesia telah lama mendukung perjuangan kemerdekaan Palestina. Indonesia telah memberikan bantuan kemanusiaan dan diplomatik kepada rakyat Palestina. Indonesia juga telah menjadi salah satu negara yang mendukung pengakuan kemerdekaan Palestina oleh PBB.\n\n
+            Indonesia berharap bahwa kemerdekaan Palestina dapat segera terwujud. Kemerdekaan Palestina merupakan sebuah langkah penting untuk mewujudkan perdamaian dan keadilan di kawasan Timur Tengah.</item>
         <item>Membaca Al Quran adalah perdagangan yang tidak pernah merugi\n\n
             Sesungguhnya orang-orang yang selalu membaca kitab Allah dan mendirikan salat dan menafkahkan sebahagian dari rezeki yang Kami anugerahkan kepada mereka dengan diam-diam dan terang-terangan, mereka itu mengharapkan perniagaan yang tidak akan merugi. Agar Allah menyempurnakan kepada mereka pahala mereka dan menambah kepada mereka dari karunia-Nya. Sesungguhnya Allah Maha Pengampun lagi Maha Mensyukuri.\n\n
-        Qatadah (wafat: 118 H) rahimahullah berkata, Mutharrif bin Abdullah (Tabiin, wafat 95H) jika membaca ayat ini beliau berkata: Ini adalah ayat orang-orang yang suka membaca Al Quran (Lihat kitab Tafsir Al Quran Al Azhim)</item>
+            Qatadah (wafat: 118 H) rahimahullah berkata, Mutharrif bin Abdullah (Tabiin, wafat 95H) jika membaca ayat ini beliau berkata: Ini adalah ayat orang-orang yang suka membaca Al Quran (Lihat kitab Tafsir Al Quran Al Azhim)</item>
         <item>Masjid Istiqlal, masjid terbesar di Asia Tenggara, telah selesai direnovasi setelah 14 tahun. Wajah baru Masjid Istiqlal kini tampak lebih indah dan modern.\n\n
             Renovasi Masjid Istiqlal dilakukan secara bertahap sejak tahun 2009. Pada tahap pertama, renovasi dilakukan pada bagian luar masjid, termasuk fasad, menara, dan lanskap. Tahap kedua, renovasi dilakukan pada bagian dalam masjid, termasuk interior, ruang wudhu, dan fasilitas pendukung.\n\n
             Pada bagian luar, Masjid Istiqlal kini tampak lebih megah dan elegan. Fasad masjid dihiasi dengan kaligrafi Arab yang indah. Menara masjid juga dipercantik dengan ornamen-ornamen khas Indonesia. Lanskap di sekitar masjid juga ditata ulang sehingga lebih rapi dan asri.\n\n
             Pada bagian dalam, Masjid Istiqlal kini tampak lebih nyaman dan modern. Interior masjid didominasi oleh warna putih yang cerah. Ruang wudhu juga diperbesar dan dilengkapi dengan fasilitas yang lebih lengkap. Fasilitas pendukung lainnya, seperti perpustakaan dan ruang pertemuan, juga diperbarui.\n\n
             Renovasi Masjid Istiqlal diharapkan dapat meningkatkan kualitas pelayanan dan kenyamanan bagi para jamaah. Masjid Istiqlal juga diharapkan dapat menjadi simbol persatuan dan kesatuan bangsa Indonesia.\n\n</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
-        <item>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</item>
+        <item>Dalam Islam, ilmu pengetahuan mempunyai kedudukan yang sangat penting. Ilmu pengetahuan dipandang sebagai salah satu sarana untuk mencapai kebahagiaan dunia dan akhirat.\n\n
+            Dalam sebuah hadits, Rasulullah bersabda, Menuntut ilmu itu wajib bagi setiap muslim. Hadits ini menunjukkan bahwa tuntutan ilmu kewajiban adalah bagi setiap umat Islam, baik laki-laki maupun perempuan, tua maupun muda.\n\n
+            Salah satu sarana untuk menuntut ilmu adalah dengan membaca buku. Buku dapat menjadi jembatan ilmu yang menghubungkan kita dengan berbagai macam pengetahuan.\n\n
+            Dalam Islam, kitab sering disebut sebagai “warisan ulama”. Buku merupakan hasil pemikiran dan penelitian para ulama yang telah diwariskan kepada kita.\n\n
+            Membaca buku dapat memberikan kita berbagai macam manfaat, antara lain:\n\n
+            - Meningkatkan pengetahuan\n
+            - Menyebarkan wawasan\n
+            - Memperluas pemikiran\n
+            - Menyebarkan kreativitas\n
+            - Meningkatkan kualitas hidup\n\n
+            Oleh karena itu, membaca buku merupakan salah satu kegiatan yang sangat penting bagi umat Islam.</item>
+        <item>Dalam Islam, rumah memiliki kedudukan yang sangat penting. Rumah merupakan tempat tinggal dan tempat berkumpulnya keluarga. Rumah juga merupakan tempat untuk beribadah dan mendekatkan diri kepada Allah Azza wa Jalla.\n\n
+        Dalam sebuah hadits, Rasulullah Shalallahu Alaihi wa Sallam bersabda, Rumahmu adalah istanamu. Hadits ini menunjukkan bahwa rumah merupakan tempat yang nyaman dan menyenangkan.\n\n
+        Dalam Islam, rumah diibaratkan sebagai istana. Hal ini karena rumah merupakan tempat yang nyaman dan menyenangkan.\n\n
+        Rumah yang nyaman dan menyenangkan adalah rumah yang bersih, rapi, dan tertata dengan baik. Rumah juga harus dilengkapi dengan fasilitas yang memadai untuk memenuhi kebutuhan keluarga.\n\n
+        Selain itu, rumah juga harus menjadi tempat yang penuh dengan kasih sayang dan kedamaian. Keluarga harus saling menyayangi dan menghormati satu sama lain.</item>
+        <item>Kurma merupakan salah satu buah yang dianjurkan oleh Rasulullah Shalallahu Alaihi wa Sallam untuk dikonsumsi. Dalam sebuah hadits, Rasulullah Shalallahu Alaihi wa Sallam bersabda, Siapa yang makan kurma tujuh butir pada pagi hari, maka pada hari itu ia tidak akan terkena racun dan sihir. (HR. Bukhari dan Muslim)\n\n
+        Hadits ini menunjukkan bahwa kurma memiliki banyak manfaat bagi kesehatan dan tubuh. Kurma mengandung berbagai macam nutrisi, seperti vitamin, mineral, dan antioksidan.\n\n
+        Berikut adalah beberapa manfaat dari memakan kurma:\n\n
+        - Meningkatkan energi\n\n
+        - Menjaga kesehatan jantung\n\n
+        - Melancarkan pencernaan\n\n
+        - Mencegah anemia\n\n
+        - Meningkatkan sistem imun\n\n
+        - Menjaga kesehatan tulang\n\n
+        - Mencegah kanker\n\n
+        Selain itu, kurma juga merupakan buah yang baik untuk dikonsumsi oleh ibu hamil dan menyusui. Kurma dapat membantu memenuhi kebutuhan nutrisi ibu hamil dan menyusui, serta meningkatkan kesehatan janin dan bayi.</item>
+        <item>Memelihara anak yatim merupakan salah satu kewajiban dalam Islam. Kewajiban ini ditegaskan dalam Al-Quran dan hadits.\n\n
+        Dalam Al-Quran, Allah Azza wa Jalla berfirman, Dan berikanlah kepada anak-anak yatim (bagian) harta mereka, janganlah kamu tukar yang baik dengan yang buruk dan janganlah kamu makan harta mereka bersama hartamu. Sesungguhnya hal itu adalah dosa yang besar. (QS. An-Nisa: 2)\n\n
+        Dalam hadits, Rasulullah Shalallahu Alaihi wa Sallam bersabda, Barangsiapa yang memelihara anak yatim di kalangan umat muslim, memberikannya makan dan minum, pasti Allah memasukkannya ke dalam surga, kecuali ia melakukan dosa yang tidak bisa diampuni. (HR Tirmidzi dari Ibnu Abbas)</item>
     </string-array>
 
     <string-array name="arr_dzikir_doa_harian">
